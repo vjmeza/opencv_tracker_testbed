@@ -13,4 +13,4 @@ Command Menu - Press key in video window for test bed command action:
 'p'   - Pause and unpause video
 'm'   - Menu listing
 
-Any consturctive input or suggestions would be greatly appriciated.
+Any constructive input or suggestions would be greatly appreciated.
